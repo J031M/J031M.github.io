@@ -1,8 +1,18 @@
 ---
-title: Evolution Simulator [Devlog 1]
+title: 100 Hour Timer
 date: 2023-10-27 11:16:00
-tags: [devlog]     # TAG names should always be lowercase
-toc: false
+tags: [project]     # TAG names should always be lowercase
+toc: true
 ---
 
+Ladies and Gentlemen, I present to you the first project in my 100 Hour Project series: A Hundred Hour Timer!
 
+## Features
+- can track 100 hours, obviously persistent between sessions
+- has fancy animations that change with 100 hours
+- has an hourly update feature
+- maintains an archive of all the past projects
+- (optional) cross platform with cloud syncing
+
+For the fancy animations, I've settled on an evolution simulation, complete with organisms controlled by neural networks that can evolve over generations. This part of the timer is insipred by [the bibites](https://www.thebibites.com/).
+I see myself spending a lot of time getting this to work, considering I have no exprience with Unity, which is presumably what I'm going to be using to implement this "timer".
