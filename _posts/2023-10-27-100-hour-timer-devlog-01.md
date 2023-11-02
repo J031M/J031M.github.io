@@ -9,7 +9,6 @@ This project is available [here](https://github.com/J031M/Evolution_Simulation_P
 
 There aren't many animations that will remain unique over 100 hours. And since I love AI, I chose to have my animation be an evolution simulation. I will port it to unity eventually but just to get the prototype out, I'm using Pygame. I'd say this has gotten off to a pretty great start!
 
-![](/assets/img/misc/evosim.gif)
 _the squares are the organisms, white circles are food and green circles are eggs_
 
 Pygame runs one loop continuously and all the game updates happens in that one loop. Here's the basic structure of the pygame project.
