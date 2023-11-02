@@ -6,7 +6,6 @@ toc: true
 ---
 
 I dunno why it ain't working
-![](../assets/img/posts/evosim.gif)
 _bruh_
 
 yo
