@@ -90,9 +90,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: J031M/J031M.github.io # <gh-username>/<repo>
-    repo_id: 710617044
-    category: general
-    category_id: 2
+    repo_id: R_kgDOKlsn1A
+    category: Announcements
+    category_id: DIC_kwDOKlsn1M4CaqAZ
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
