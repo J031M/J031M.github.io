@@ -3,7 +3,7 @@ title: The Hundred Hour Project
 date: 2023-11-01 00:00:00
 tags: [project]     # TAG names should always be lowercase
 toc: true
-pin: true
+pin: false
 ---
 
 Looking back at my college life, I sincerely regret disrespecting my time. Sure, people say I'm doing great relative to others, and that isn't entirely false. I barely remember a handful of instances where I truly "worked hard". 
