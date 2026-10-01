@@ -1,6 +1,6 @@
 ---
 title: Hello again
-date: 2026-10-01 20:16:00
+date: 2026-10-01 00:00:00
 tags: [life]     # TAG names should always be lowercase
 toc: true
 ---
